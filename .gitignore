@@ -1,0 +1,8 @@
+venv
+.env
+_pycache__
+phase1_fetch.py
+phase2_filter.py
+phase3_enrich.py
+test_baserow.py
+
